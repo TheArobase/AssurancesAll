@@ -32,9 +32,9 @@ Le plugin Assurances All peut être utilisé de diverses manières. Il propose u
 
 - <h3>Pour les assureurs : </h3>
 
-=> Possibilité d'assurer les citoyens avec l'assurance habitation, maladi, prévoyance et automobile.
+=> Possibilité d'assurer les citoyens avec l'assurance habitation, maladi, prévoyance et automobile.(*L'assurance maladi et prévoyance prélève le montant indiquer par l'assureur. Les assurances habitation et automobiles, prélève le montant indiquer par l'assureur multiplier par le nombre de bien assuré.*)
 
-=> Possibilité d'assurer les entreprises avec l'assurance bien professionnel.
+=> Possibilité d'assurer les entreprises avec l'assurance bien professionnel.(*Cette assurances prélève à l'entreprise le montant choisi multiplier par le nombre d'employer.*)
 
 => Possibilité de modifier le prix de n'importe qu'elle assurances.
 
@@ -68,7 +68,7 @@ Le plugin Assurances All peut être utilisé de diverses manières. Il propose u
 
 3 - Assurez-vous que le serveur utilise les dernières versions de ModKit et de AAMenu **pour que le plugin fonctionne correctement.**
 
-4 - Redémarrez votre serveur Nova-Life (*Vous constaterez l'apparition d'un dossier 'P.P.A System' dans le qu'elle ce trouve un fichier*).
+4 - Redémarrez votre serveur Nova-Life (*Vous constaterez l'apparition d'un dossier 'Assurances All data' dans le qu'elle ce trouve un fichier*).
 
 5 - Configurez votre WebHook discord et rdémarrez une dernière fois.</s>
 
