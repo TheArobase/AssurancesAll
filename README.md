@@ -16,7 +16,7 @@ Le plugin Assurances All peut être utilisé de diverses manières. Il propose u
 
 => Accessible depuis le menu "P".
 
-=> Mise en place d'une 'Activité custom don le nom est 'assureur' à attribuer à l'entreprise que vous souhaiter.
+=> Mise en place d'une 'Activité custom' dont le nom est 'assureur' à attribuer à l'entreprise que vous souhaiter.
 
 <h2>🌀~ Les fonctionnalités en jeu</h2>
 
