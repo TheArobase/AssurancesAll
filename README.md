@@ -60,7 +60,7 @@ Le plugin Assurances All peut être utilisé de diverses manières. Il propose u
 
 - <a href="https://github.com/emilenkz/NovaLife_ModKit-Releases/releases/tag/v2.3">ModKit + AAMenu</a>
 
-<s><h2>📥~ Installation</h2>
+<h2>📥~ Installation</h2>
 
 1 - Téléchargez le fichier .dll .
 
@@ -70,7 +70,7 @@ Le plugin Assurances All peut être utilisé de diverses manières. Il propose u
 
 4 - Redémarrez votre serveur Nova-Life (*Vous constaterez l'apparition d'un dossier 'Assurances All data' dans le qu'elle ce trouve un fichier*).
 
-5 - Configurez votre WebHook discord et rdémarrez une dernière fois.</s>
+5 - Configurez votre WebHook discord et rdémarrez une dernière fois.
 
 <h2>📞~ Contact</h2>
 
